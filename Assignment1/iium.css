@@ -1,0 +1,54 @@
+
+div[class="img"]{
+  float: left;
+  width: 50%;
+}
+div[class="logo"]{
+  margin-top:auto;
+  float: right;
+  width: 20%;
+}
+div[class="login"]{
+  width: 100%;
+}
+div[class="policy"]{
+  float: right;
+  margin-bottom: auto;
+}
+#privacy{
+  color: #0099cc;
+  text-decoration: none;
+}
+#disclaim{
+  color: #0099cc;
+  text-decoration: none;
+}
+hr{
+  width: 75px;
+  margin-left: 200px;
+  margin-right: 200px;
+  height: 4px;
+  background-color: #0099cc;
+  opacity: 0.5;
+}
+h2{
+  font-weight: bold;
+  font-family: arial;
+}
+h3{
+  font-weight: bold;
+  font-family: arial;
+  font-size: 120%;
+}
+input[type="text"]{
+  padding: 6px 93px;
+}
+input[type="number"]{
+  padding: 6px 93px;
+}
+button[type="button"]{
+  padding: 10px 155px;
+}
+#iiumRiver{
+  clip-path: polygon(90% 50%, 0% 0, 0% 100%);
+}
